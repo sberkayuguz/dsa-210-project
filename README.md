@@ -16,9 +16,13 @@ I’ve been curious about how our lifestyles and environments shape health outco
 ## Data Source
 
 Health Expenditure (% of GDP)	World Bank – 	Annual healthcare spending as a percentage of GDP.
+
 Adult Obesity Rate (%)	Our World in Data (based on WHO Global Health Observatory) - Percentage of adults classified as obese in each country.
+
 Urban Population (% of total)	World Bank – Share of the population living in urban areas.
+
 GDP per Capita (current USD)	World Bank – Economic output per person, representing income levels.
+
 Social Media Users (% of population)
 DataReportal / We Are Social – Global Digital Overview Reports
 Annual reports summarizing internet and social media penetration rates by country.
