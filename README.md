@@ -1,4 +1,4 @@
-# Health Expenditure and Obesity Paradox
+## Health Expenditure and Obesity Paradox
 
 # Motivation
 
