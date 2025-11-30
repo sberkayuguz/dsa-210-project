@@ -47,11 +47,14 @@ I will use regression plots, time-series charts, and heatmaps to summarize my fi
 
 In this project, I will test whether higher health expenditure is actually associated with lower obesity rates, or if the opposite trend is true in modern societies.
 
-Null Hypothesis (H₀):
+(H1):
 Increased health expenditure leads to lower obesity rates across countries.
 
-Alternative Hypothesis (H₁):
+(H2):
 Increased health expenditure does not reduce obesity rates and may even cause higher obesity prevalence, especially in highly urbanized and digitally active societies.
+
+(H3):
+Internet usage is positively correlated with obesity (more sedentary lifestyle).
 
 ## Expected Outcome
 
