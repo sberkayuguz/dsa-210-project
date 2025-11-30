@@ -50,18 +50,21 @@ In this project, I will test whether higher health expenditure is actually assoc
 Test 1: Health Expenditure vs. Obesity
 𝐻0
   (Null): There is no statistically significant correlation between government health expenditure and obesity rates.
+
 𝐻1
   (Alternative): There is a statistically significant correlation (we originally predicted negative, i.e., more spending = less obesity).
 
 Test 2: The "Digital Lifestyle" (Internet vs. Obesity)
 𝐻0
   (Null): There is no correlation between internet usage and obesity.
+
 𝐻1
   (Alternative): There is a positive correlation (higher internet usage is linked to higher obesity due to sedentary lifestyles).
 
 Test 3: Urbanization vs. Obesity
 𝐻0
   (Null): Urbanization levels have no relationship with obesity prevalence.
+
 𝐻1
   (Alternative): Higher urbanization is associated with higher obesity rates.
 
