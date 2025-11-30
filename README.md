@@ -48,6 +48,7 @@ I will use regression plots, time-series charts, and heatmaps to summarize my fi
 In this project, I will test whether higher health expenditure is actually associated with lower obesity rates, or if the opposite trend is true in modern societies.
 
 Test 1: Health Expenditure vs. Obesity
+
 𝐻0
   (Null): There is no statistically significant correlation between government health expenditure and obesity rates.
 
@@ -55,6 +56,7 @@ Test 1: Health Expenditure vs. Obesity
   (Alternative): There is a statistically significant correlation (we originally predicted negative, i.e., more spending = less obesity).
 
 Test 2: The "Digital Lifestyle" (Internet vs. Obesity)
+
 𝐻0
   (Null): There is no correlation between internet usage and obesity.
 
@@ -62,6 +64,7 @@ Test 2: The "Digital Lifestyle" (Internet vs. Obesity)
   (Alternative): There is a positive correlation (higher internet usage is linked to higher obesity due to sedentary lifestyles).
 
 Test 3: Urbanization vs. Obesity
+
 𝐻0
   (Null): Urbanization levels have no relationship with obesity prevalence.
 
