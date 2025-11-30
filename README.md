@@ -47,14 +47,21 @@ I will use regression plots, time-series charts, and heatmaps to summarize my fi
 
 In this project, I will test whether higher health expenditure is actually associated with lower obesity rates, or if the opposite trend is true in modern societies.
 
-(H1):
-Increased health expenditure leads to lower obesity rates across countries.
-
-(H2):
-Increased health expenditure does not reduce obesity rates and may even cause higher obesity prevalence, especially in highly urbanized and digitally active societies.
-
-(H3):
-Internet usage is positively correlated with obesity (more sedentary lifestyle).
+Test 1: Health Expenditure vs. Obesity
+𝐻0
+  (Null): There is no statistically significant correlation between government health expenditure and obesity rates.
+𝐻1
+  (Alternative): There is a statistically significant correlation (we originally predicted negative, i.e., more spending = less obesity).
+Test 2: The "Digital Lifestyle" (Internet vs. Obesity)
+𝐻0
+  (Null): There is no correlation between internet usage and obesity.
+𝐻1
+  (Alternative): There is a positive correlation (higher internet usage is linked to higher obesity due to sedentary lifestyles).
+Test 3: Urbanization vs. Obesity
+𝐻0
+  (Null): Urbanization levels have no relationship with obesity prevalence.
+𝐻1
+  (Alternative): Higher urbanization is associated with higher obesity rates.
 
 ## Expected Outcome
 
